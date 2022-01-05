@@ -1,4 +1,4 @@
-### Bernard Leanse - Makers Academy Graduate
+# Bernard Leanse - Makers Academy Graduate
 
 I've recently graduated from makers academy software engineering bootcamp!
 I'm currently looking for a junior software engineer position, I would love to work anywhere that values following great process so I can learn !!
@@ -9,8 +9,6 @@ I'm currently looking for a junior software engineer position, I would love to w
 - That feeling when things click and fit into place!
 - The satisfaction of making things work!
 
-## [My GitHub CV](https://github.com/bernardleanse/CV)
-
 ## Technologies Used
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node Logo" width="50" height="50"/> 
@@ -19,6 +17,8 @@ I'm currently looking for a junior software engineer position, I would love to w
 <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original-wordmark.svg" alt="Ruby Logo" width="50" height="50"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="Mongo DB Logo" width="50" height="50"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="Jest Logo" width="50" height="50"/> 
+
+### [My GitHub CV](https://github.com/bernardleanse/CV)
 
 
 
