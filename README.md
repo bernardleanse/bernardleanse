@@ -11,9 +11,9 @@ I'm currently looking for a junior software engineer position, I would love to w
 
 ## What am I currently working on?
 
-- Building a tidy rest api for simple blog in express using prisma talking ot PostgreSQL. [blog_rest_api](https://github.com/bernardleanse/blog_rest_api).
-- Rebuilding simple blog using Rspec Ruby Sinatra PostgreSQL with TDD focus. [simple_blog](https://github.com/bernardleanse/simple_blog)
-- Building react full stack twitter clone (the back end will be replaced with the cleaner rest API i'm building). [front_end](https://github.com/bernardleanse/chitter_front_end), [back_end](https://github.com/bernardleanse/chitter_back_end)
+- Building a [tidy rest api](https://github.com/bernardleanse/blog_rest_api) for simple blog in express using prisma talking ot PostgreSQL. 
+- Rebuilding [simple_blog](https://github.com/bernardleanse/simple_blog) using Rspec Ruby Sinatra PostgreSQL with TDD focus. 
+- Building react full stack twitter clone (the back end will be replaced with the cleaner rest API i'm building). [front end here](https://github.com/bernardleanse/chitter_front_end), [back_end here](https://github.com/bernardleanse/chitter_back_end)
 
 ## Technologies Used
 
