@@ -16,6 +16,10 @@ I'm currently looking for a junior software engineer position, I would love to w
 - Rebuilding [simple_blog](https://github.com/bernardleanse/simple_blog) using Rspec Ruby Sinatra PostgreSQL with TDD focus. 
 - Building react full stack twitter clone (the back end will be replaced with the cleaner rest API i'm building). [front end here](https://github.com/bernardleanse/chitter_front_end), [back_end here](https://github.com/bernardleanse/chitter_back_end)
 
+## What am I currently learning?
+
+- Java! Really enjoying the concept of strongly typed languages, and the benefits. It's also reinforcing my understanding of concepts in other languages.
+
 ## Technologies Used
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node Logo" width="50" height="50"/> 
