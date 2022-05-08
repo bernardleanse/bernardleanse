@@ -11,7 +11,11 @@ I'm currently looking for a junior software engineer position, I would love to w
 
 ## What am I currently working on?
 
-- Building a [tidy rest api](https://github.com/bernardleanse/blog_rest_api) for simple blog in express using prisma talking ot PostgreSQL. Really enjoying using Postman to create api calls to test it!!
+- Building a [rest api](https://github.com/bernardleanse/blog_rest_api) for simple blog in express using prisma talking ot PostgreSQL. Really enjoying using Postman to create api calls to test it!!
+
+- Building a Python Bot for telegram (This unfortunatley is a classified tech test!! So the repo is private)
+
+- Learning Java through Test Driving codewars Kata's.
 
 - Rebuilding [simple_blog](https://github.com/bernardleanse/simple_blog) using Rspec Ruby Sinatra PostgreSQL with TDD focus. 
 - Building react full stack twitter clone (the back end will be replaced with the cleaner rest API i'm building). [front end here](https://github.com/bernardleanse/chitter_front_end), [back_end here](https://github.com/bernardleanse/chitter_back_end)
